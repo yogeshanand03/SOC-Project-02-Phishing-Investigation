@@ -1,0 +1,34 @@
+From: IT Security <security@paypa1-alert.com>
+To: employee@company.com
+Subject: URGENT: Your account has been suspended
+Date: Tue, 09 Sep 2026 10:30:00 +0530
+Reply-To: support@paypa1-alert.com
+Received: from paypa1-alert.com (45.33.32.156)
+        by mail.company.com with ESMTP;
+        Tue, 09 Sep 2026 10:30:00 +0530
+Authentication-Results: mail.company.com;
+        spf=fail smtp.mailfrom=paypa1-alert.com;
+        dkim=fail;
+        dmarc=fail
+
+MIME-Version: 1.0
+Content-Type: text/html
+
+<html>
+<body>
+<p>Dear Customer,</p>
+
+<p>Your account has been temporarily suspended.</p>
+
+<p>Please verify your account immediately by clicking the link below:</p>
+
+<p><a href="http://paypa1-secure-login.com/verify">
+Verify Your Account</a></p>
+
+<p>If you do not verify your account within 24 hours,
+your account will remain suspended.</p>
+
+<p>Thank you,<br>
+IT Security Team</p>
+</body>
+</html>
